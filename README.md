@@ -81,7 +81,7 @@ SAM is not just a robot; it’s a companion and assistant. Its extensible design
 ---
 
 ## Contributors
-- **Yashwanth K**@Yashwanss **Jeevan Suresh**@ 
+- **Yashwanth K**@Yashwanss **Jeevan Suresh**
 
 SAM is your friendly assistant, redefining what it means to have a truly intelligent machine in your life. Try it today and experience the future of robotics!
 
