@@ -1,6 +1,3 @@
-Here’s an updated **README.md** for your project incorporating the description of SAM:
-
----
 
 # SAM: Smart Autonomous Machine
 
