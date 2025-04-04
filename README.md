@@ -77,6 +77,16 @@ SAM is not just a robot; it’s a companion and assistant. Its extensible design
 
 ---
 
+---
+
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+## License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this software with attribution.
+
+---
+
 ## Contributors
 - **Yashwanth K**@Yashwanss **Jeevan Suresh**
 
