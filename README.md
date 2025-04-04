@@ -83,5 +83,5 @@ SAM is not just a robot; it’s a companion and assistant. Its extensible design
 SAM is your friendly assistant, redefining what it means to have a truly intelligent machine in your life. Try it today and experience the future of robotics!
 
 --- 
-##A Note from the Creators
+## A Note from the Creators
 This project is a labor of passion and curiosity, and while every effort has been made to ensure the code is functional, there may still be imperfections. I apologize for any rough edges or inefficiencies in the code and would deeply appreciate your feedback and improvements.
